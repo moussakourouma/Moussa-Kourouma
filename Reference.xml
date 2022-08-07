@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<source>
+ <lien>
+  <id>1</id>
+  <auteur>Je decide</auteur>
+  <titre>Quels sont les avantages des réseaux sociaux ?</titre>
+  <uri>https://www.jedecide.be/les-parents-et-lenseignement/la-vie-privee-en-ligne/reseaux-sociaux-les-avantages</uri>
+  <date></date>
+ </lien>
+
+ <lien>
+  <id>2</id>
+  <auteur>Tabary-Bolka</auteur>
+  <titre>L’IMPACT DES RÉSEAUX SOCIAUX SUR L’ESTIME DE SOI</titre>
+  <uri>https://www.i-share.fr/actualite/limpact-des-reseaux-sociaux-sur-lestime-de-soi/</uri>
+  <date>24/02/2021</date>
+ </lien>
+
+ <lien>
+  <id>3</id>
+  <auteur>Lou Petitjean</auteur>
+  <titre>Quel est l’impact des réseaux sociaux sur notre façon de penser et notre santé ?</titre>
+  <uri>https://www.docteur-fitness.com/impact-des-reseaux-sociaux-facon-de-penser</uri>
+  <date>22/02/2022</date>
+ </lien>
+
+ <lien>
+  <id>4</id>
+  <auteur>Pierre-Louis Caron</auteur>
+  <titre>On vous explique ce qu'est le métavers, "l'internet du futur" qui fait rêver la tech</titre>
+  <uri>https://www.francetvinfo.fr/economie/bitcoin/on-vous-explique-ce-qu-est-le-metavers-l-internet-du-futur-qui-fait-rever-la-tech_4757523.html</uri>
+  <date>16/09/2021</date>
+ </lien>
+
+ <lien>
+  <id>5</id>
+  <auteur>Valentin Cimino</auteur>
+  <titre>À son tour Alibaba se lance dans la course au métaverse</titre>
+  <uri>https://siecledigital.fr/2021/10/06/a-son-tour-alibaba-se-lance-dans-la-course-au-metaverse/</uri>
+  <date>06/10/2021</date>
+ </lien>
+
+ <lien>
+  <id>6</id>
+  <auteur>DMate</auteur>
+  <titre>La réalité augmentée et la réalité virtuelle au service de l’éducation</titre>
+  <uri>https://www.digitalmate.fr/realite-augmentee-education/</uri>
+  <date>23/11/2020</date>
+ </lien>
+
+ <lien>
+  <id>7</id>
+  <auteur>DMate</auteur>
+  <titre>Quel est l’impact des réseaux sociaux sur l’environnement ?</titre>
+  <uri>https://nooode.fr/quel-impact-des-reseaux-sociaux-sur-environnement/</uri>
+  <date>21/04/2021</date>
+ </lien>
+
+ <lien>
+  <id>8</id>
+  <auteur>Flora Eveno</auteur>
+  <titre>Comment les réseaux sociaux impactent le bien-être des jeunes.</titre>
+  <uri>https://www.rtbf.be/article/comment-les-reseaux-sociaux-impactent-le-bien-etre-des-jeunes-9958734</uri>
+  <date>28/06/2018</date>
+ </lien>
+
+ <lien>
+  <id>9</id>
+  <auteur> MARINELLE NGIESE</auteur>
+  <titre>L’impact des réseaux sociaux sur les jeunes</titre>
+  <uri>http://www.lejournalinternational.info/limpact-des-reseaux-sociaux-sur-les-jeunes/</uri>
+  <date>30/10/2010</date>
+ </lien>
+
+ <lien>
+  <id>10</id>
+  <auteur>
+NOOVO MOI
+</auteur>
+  <titre>L'impact des réseaux sociaux sur notre vie</titre>
+  <uri>https://www.noovomoi.ca/vivre/bien-etre/article.impacts-reseaux-sociaux.1.965579.html</uri>
+  <date>24/11/2020</date>
+ </lien>
+
+ <lien>
+  <id>11</id>
+  <auteur>Philippe Daris</auteur>
+  <titre>LA CYBERDÉPENDANCE: QUAND INTERNET PREND LES COMMANDES</titre>
+  <uri>https://www.aide.ulaval.ca/psychologie/textes-et-outils/difficultes-frequentes/la-cyberdependance-quand-internet-prend-les-commandes/#:~:text=Qu%27est%2Dce%20que%20la,%C2%BB%20(Sergerie%2C%202005)</uri>
+  <date>xx/xx/xxxx</date>
+ </lien>
+
+ <lien>
+  <id>12</id>
+  <auteur>Farah MOKHTAR</auteur>
+  <titre>L’impact des réseaux sociaux</titre>
+  <uri>https://ima4505.wp.imtbs-tsp.eu/files/2012/03/impactreseauxsociaux.pdf</uri>
+  <date>xx/xx/xxxx</date>
+ </lien>
+
+ <lien>
+  <id>13</id>
+  <auteur>D MAte</auteur>
+  <titre>Quel est l’impact des réseaux sociaux sur notre bien-être ?</titre>
+  <uri>https://se-realiser.com/reseaux-sociaux-bien-etre/#:~:text=des%20r%C3%A9seaux%20sociaux.-,Impact%20sur%20les%20relations%20et%20les%20comp%C3%A9tences%20sociales,travers%20de%20communaut%C3%A9s%20en%20ligne</uri>
+  <date>xx/08/2017</date>
+ </lien>
+
+ <lien>
+  <id>14</id>
+  <auteur>Elise T. Turcotte Sarah Laou</auteur>
+  <titre>20 effets négatifs (et positifs) des médias sociaux</titre>
+  <uri>https://www.selection.ca/sante/vivre-sainement/les-avantages-et-les-inconvenients-des-reseaux-sociaux/</uri>
+  <date>17/xx/2021</date>
+ </lien>
+
+ <lien>
+  <id>15</id>
+  <auteur>Vincianne D'Anna</auteur>
+  <titre>Livres augmentés : le mariage parfait entre le papier et le numérique.</titre>
+  <uri>https://www.lettresnumeriques.be/2016/11/25/livres-augmentes-le-mariage-parfait-entre-le-papier-et-le-numerique/</uri>
+  <date>25/11/2016</date>
+ </lien>
+
+ <lien>
+  <id>16</id>
+  <auteur>Pierrick LABBE</auteur>
+  <titre>Boneworks et The Walking Dead prouvent l’intérêt de la physique dans l’interaction</titre>
+  <uri>https://www.realite-virtuelle.com/interet-physique-dans-linteraction/</uri>
+  <date>xx/01/2020</date>
+ </lien>
+
+ <lien>
+  <id>17</id>
+  <auteur>Al</auteur>
+  <titre>21 excellents outils pour la VR et l’AR en classe</titre>
+  <uri>https://itsocial.fr/autres/leadership/communication-leadership/6-impacts-reseaux-sociaux/</uri>
+  <date>21/12/2021</date>
+ </lien>
+
+ <lien>
+  <id>18</id>
+  <auteur> Yves Grandmontagne</auteur>
+  <titre>6 impacts positifs et négatifs des réseaux sociaux</titre>
+  <uri>https://blog.laval-virtual.com/quelle-place-pour-la-realite-virtuelle-dans-education/</uri>
+  <date>10/03/2017</date>
+ </lien>
+
+ <lien>
+  <id>19</id>
+  <auteur>Godefroy Dang Nguyen, Virginie Lethiais</auteur>
+  <titre>Impact des réseaux sociaux sur la sociabilité</titre>
+  <uri>https://www.cairn.info/revue-reseaux-2016-1-page-165.htm</uri>
+  <date>24/03/2016</date>
+ </lien>
+
+ <lien>
+  <id>20</id>
+  <auteur>Hugo Lauras</auteur>
+  <titre>L’impact des réseaux sociaux sur les entreprises a-t-il un rôle essentiel sur leur image ?</titre>
+  <uri>https://www.andlil.com/limpact-des-reseaux-sociaux-sur-les-entreprises-a-t-il-un-role-essentiel-sur-leur-image-165542.html</uri>
+  <date>xx/xx/2012 2013</date>
+ </lien>
+
+ 
+</source>
